@@ -1,4 +1,4 @@
-## Hi there and welcome to my GitHub 👋 :lotus_position_woman: :hibiscus:
+## Hi there and welcome to my GitHub 👋 :woman_cartwheeling: :hibiscus:
 
 My is Romina I live in Sweden and I'm currently studying Javascript development at IT-Högskolan
 
