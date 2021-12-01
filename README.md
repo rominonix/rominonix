@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there and welcome to my GitHub 👋 :lotus_position_woman: :hibiscus:
+
+My is Romina I live in Sweden and I'm currently studying Javascript development at IT-Högskolan
+
+- 📫 How to reach me: rominarebolledo@gmail.com
 
 <!--
 **rominonix/rominonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
