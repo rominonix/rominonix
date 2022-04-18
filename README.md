@@ -1,6 +1,6 @@
 ## Hi there and welcome to my GitHub 👋 :woman_cartwheeling: :hibiscus:
 
-My name is Romina I live in Sweden and I'm currently studying Javascript development at IT-Högskolan
+My name is Romina I live in Sweden and I'm Javascript development.
 
 - 📫 How to reach me: rominarebolledo@gmail.com
 
