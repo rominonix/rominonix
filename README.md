@@ -1,10 +1,17 @@
 ## Hi there and welcome to my GitHub 👋 :woman_cartwheeling: :hibiscus:
 
-My name is Romina I live in Sweden and I'm Javascript developer.
+My name is Romina I live in Sweden 🇸🇪 and I'm Javascript developer 👩‍💻
 
+- 👩‍🎤 I’m currently working at [BLK LZY](https://www.blacklizzy.se/)
 - 📫 How to reach me: rominarebolledo@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stay in touch!</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rominarebolledo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rominarebolledo" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Languages, Frameworks and Databases</h3>
 
 <p align="left"> 
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="nodejs" width="40" height="40"/> </a> 
