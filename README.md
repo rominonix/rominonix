@@ -2,7 +2,6 @@
 
 My name is Romina I live in Sweden 🇸🇪 and I'm Javascript developer 👩‍💻
 
-- 👩‍🎤 I’m currently working at [BLK LZY](https://www.blacklizzy.se/)
 - 📫 How to reach me: rominarebolledo@gmail.com
 
 <h3 align="left">Stay in touch!</h3>
